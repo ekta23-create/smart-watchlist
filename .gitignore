@@ -21,3 +21,8 @@ Thumbs.db
 
 # VS Code
 .vscode/
+
+# SQLite database
+backend/data.sqlite
+backend/data.sqlite-shm
+backend/data.sqlite-wal
